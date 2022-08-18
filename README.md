@@ -57,13 +57,10 @@
 
 ## Stats 🧠
 
-![Sandesh Jain github stats](https://github-readme-stats.vercel.app/api?username=thesandeshjain&count_private=true&show_icons=true&hide=contribs,prs&cache_seconds=1000&bg_color=0,#f6736,#6533f)
-
-<br>
-
-   <p><img align="right" width="360"alt="Coding" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<p><img align="right" width="360"alt="Coding" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
       <img align="left"width="370"  src="https://github-readme-stats.vercel.app/api?username=sandeshjain06&show_icons=true&locale=en" alt="SandeshJain" />
-   </p>
+</p>
+
 
 
 
