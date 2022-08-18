@@ -61,6 +61,10 @@
 
 <br>
 
+   <p><img align="right" width="360"alt="Coding" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+      <img align="left"width="370"  src="https://github-readme-stats.vercel.app/api?username=sandeshjain06&show_icons=true&locale=en" alt="SandeshJain" />
+   </p>
+
 
 
 
