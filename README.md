@@ -52,7 +52,7 @@
 ## Stats 🧠
 
 <p><img align="left",img width="450", src="https://storage.googleapis.com/gweb-newslab-data-viz-tool.appspot.com/uploads/2ac42fc0-4e24-4843-a5de-d0f31a6b8329.gif">
-   <img align="left"width="370"  src="https://github-readme-stats.vercel.app/api?username=sandeshjain06&theme='radical'&show_icons=true&locale=en"  />
+   <img align="left"width="370"  src="https://github-readme-stats.vercel.app/api?username=sandeshjain06&theme=radical&show_icons=true&locale=en"  />
 </p>
 
 
