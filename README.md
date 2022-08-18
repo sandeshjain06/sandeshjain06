@@ -7,15 +7,13 @@
   
   <img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+
+- 🔭 I’m currently working on portfolio , working on real-world projects
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: sandesh.12j@gmail.com;
-- ⚡ Fun fact: I love to do photography 
-- 🔭 I’m currently working on portfolio
-- 🌱 I’m currently learning something new in machine learning.
 - 💬 Ask me about Anything.
-- ⚡ **Fun fact:** Zoologists are wrong. Not every ***Python*** is a snake.
+- ⚡ Fun fact: I love watching movies.
+
 
 <br>
 
