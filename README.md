@@ -40,27 +40,16 @@
 
 ## Connect with me 🤝
 
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samdesh.12j@gmail.com) &emsp;
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandesh.12j@gmail.com) &emsp;
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeshjain06/) &emsp;
-[![](https://img.shields.io/badge/Kaggle-00599C?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/divyanshuyadav/) &emsp;
-[![](https://img.shields.io/badge/Hackerrank-0bb359?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/thedivyanshu) &emsp;
 
 <br>
 
-## Stats 🧠
+## Stats 
 
 <p><img align="left",img width="450", src="https://storage.googleapis.com/gweb-newslab-data-viz-tool.appspot.com/uploads/2ac42fc0-4e24-4843-a5de-d0f31a6b8329.gif">
    <img align="left"width="370"  src="https://github-readme-stats.vercel.app/api?username=sandeshjain06&theme=radical&show_icons=true&locale=en"  />
 </p>
 
-
-
-
-
-
-
-
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-
-
 
