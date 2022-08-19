@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=Hello+,+Welcome+to+my+GitHub+Profile+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++......)](https://git.io/typing-svg)
-#I'm Sandesh Jain , passionate self-learner and Data Scientist , looking for insights from the data 👋
+### I'm Sandesh Jain , passionate self-learner and Data Scientist , looking for insights from the data 👋
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
