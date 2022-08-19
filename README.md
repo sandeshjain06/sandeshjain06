@@ -2,12 +2,8 @@
 ### I'm Sandesh Jain , passionate self-learner and Data Scientist , looking for insights from the data 👋
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  
-    <img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
-    
-    
-    
+<img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+        
 
 - 🔭 I’m currently working on real-world projects.
 - 🥅 2022 Goals: Contribute more to Open Source projects
