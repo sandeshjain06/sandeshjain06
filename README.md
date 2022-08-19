@@ -4,16 +4,13 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   
-  
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+    <img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
-
-- 🔭 I’m currently working on portfolio , working on real-world projects
+- 🔭 I’m currently working on real-world projects.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: sandesh.12j@gmail.com;
 - 💬 Ask me about Anything.
 - ⚡ Fun fact: I love watching movies.
-
 
 <br>
 
@@ -50,6 +47,4 @@
 <p><img align="left",img width="450", src="https://storage.googleapis.com/gweb-newslab-data-viz-tool.appspot.com/uploads/2ac42fc0-4e24-4843-a5de-d0f31a6b8329.gif">
    <img align="left"width="370"  src="https://github-readme-stats.vercel.app/api?username=sandeshjain06&theme=radical&show_icons=true&locale=en"  />
 </p>
-
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-
